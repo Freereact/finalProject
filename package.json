@@ -1,0 +1,8 @@
+{
+  "name": "finalProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Freereact/finalProject.git",
+  "author": "szautkin <szautkin@gmail.com>",
+  "license": "MIT"
+}
